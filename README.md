@@ -1,9 +1,6 @@
 📊 Math Visualiser
 
 An interactive, web-based math visualization tool built with Next.js, React, and Tailwind CSS. Designed to simplify math learning and graphing with clean UI and powerful features.
-
-[![GitHub stars] https://github.com/shub-h14/Maths_Visualizer
-
 ---
 
 ✨ Features
@@ -29,10 +26,7 @@ An interactive, web-based math visualization tool built with Next.js, React, and
 ---
 
 📸 Screenshots
-
-| Home Page | Graph View |
-|-----------|------------|
-| ![Home Screenshot](docs/screenshot-home.png) | ![Graph Screenshot](docs/screenshot-graph.png) |
+https://github.com/shub-h14/Maths_Visualizer/tree/main/Screenshots
 
 ---
 
